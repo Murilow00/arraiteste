@@ -1,2 +1,2 @@
-let timao =['Neymar, Ronaldinho Gaucho, Pelé, Murilo Milan, Neuer ']
+let timao = ['Neymar, Ronaldinho Gaucho, Pelé, Murilo Milan, Neuer '];
 console.log(timao)
